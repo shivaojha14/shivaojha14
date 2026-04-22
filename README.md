@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shiva Ojha 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer • Backend Focus • Scalable Systems Builder</b>
+  <b>Full Stack Developer • Frontend Focus • Scalable Systems Builder</b>
 </p>
 
 <p align="center">
@@ -89,7 +89,7 @@ Directory-style platform for suppliers and deals.
 **Backend**
 - Node.js
 - Express.js
-- Laravel (PHP)
+
 
 **Database**
 - MySQL
