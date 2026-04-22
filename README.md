@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Shiva Ojha 👋
 
-<!--
-**shivaojha14/shivaojha14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Backend Engineer | Frontend Engineer |
 
-Here are some ideas to get you started:
+Building scalable web applications, APIs, and automation systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔗 Connect with me
+- LinkedIn: https://www.linkedin.com/in/shiva-ojha-356442246/
+- GitHub: https://github.com/shivaojha14
+
+---
+
+## 👨‍💻 About Me
+
+I am a full-stack developer from India focused on building real-world software systems.
+
+### My work includes:
+- Web application development
+- Backend APIs (Node.js ,Expressjs)
+- Database design (MySQL, OpenSearch , MongoDb)
+- Cloud & deployment
+- Automation systems
+
+---
+
+## 🚀 Tech Stack
+- Frontend: React, Next.js
+- Backend: Node.js, 
+- Database: MySQL, OpenSearch, MongoDb
+- Tools: Git, Docker, GitLab
+
+---
+
+## 📫 Contact Me
+Email: ojhashiva139@gmail.com
