@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Shiva Ojha 👋</h1>
+<h1 align="center">⚡ Shiva Ojha — Turning Ideas Into Impactful Products.</h1>
+<p align="center">
+  <b>Full Stack Engineer | Product Builder | AI Explorer</b>
+</p>
 
 <p align="center">
   <b>Full Stack Developer • Frontend Focus • Scalable Systems Builder</b>
@@ -7,15 +10,6 @@
 <p align="center">
 Building real-world platforms, high-performance APIs, and automation systems used in production.
 </p>
-
----
-
-## 🔗 Connect with me
-
-- 🌐 Portfolio: https://async-shiva-porfolio.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/shiva-ojha-356442246/
-- 💻 GitHub: https://github.com/shivaojha14
-- 📧 Email: ojhashiva139@gmail.com
 
 ---
 
