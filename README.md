@@ -1,19 +1,9 @@
 <!-- ========================================================= -->
 <!--                 SHIVAKANT OJHA | GITHUB                   -->
 <!--              FULL STACK ENGINEER PORTFOLIO                -->
-<!-- ========================================================= -->
-
-<!-- ================= HERO SECTION ================= -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=220&section=header&text=SHIVAKANT%20OJHA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20ENGINEER%20%7C%20PRODUCT%20BUILDER&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
-
-<br/>
-
+<!-- ========================================================= --><!-- ================= HERO SECTION ================= --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:1F6FEB&height=220&section=header&text=SHIVAKANT%20OJHA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20ENGINEER%20%7C%20PRODUCT%20BUILDER&descSize=15&descAlignY=58&animation=fadeIn" width="100%" />
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Engineering+Production-Ready+Applications;Building+Scalable+Backend+Systems;Designing+Reliable+Software+Architecture;Optimizing+Performance+%26+Search;Turning+Business+Problems+Into+Solutions" />
 
-<br/><br/>
 
 <a href="https://async-shiva-porfolio.vercel.app/">
 <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-161B22?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -25,33 +15,21 @@
 <img src="https://img.shields.io/badge/EMAIL-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
 
 <img src="https://img.shields.io/badge/EXPERIENCE-2%2B%20Years-238636?style=flat-square" />
 <img src="https://img.shields.io/badge/FOCUS-Production%20Engineering-1F6FEB?style=flat-square" />
 <img src="https://img.shields.io/badge/INTEREST-AI%20Engineering-8957E5?style=flat-square" />
 
-<br/><br/>
 
-**Building software that solves real problems and scales with purpose.**
+Building software that solves real problems and scales with purpose.
+</div><!-- ================= ENGINEERING IDENTITY ================= -->01. / Engineering Identity
+I'm Shivakant Ojha, a Full Stack Engineer from India with 2+ years of hands-on experience building and maintaining production web applications.
 
-</div>
-
----
-
-<!-- ================= ENGINEERING IDENTITY ================= -->
-
-## 01. / Engineering Identity
-
-I'm **Shivakant Ojha**, a Full Stack Engineer from India with 2+ years of hands-on experience building and maintaining production web applications.
-
-I work at the intersection of **engineering, performance, and business logic**.
+I work at the intersection of engineering, performance, and business logic.
 
 My experience includes working on live platforms, engineering application workflows, optimizing APIs, implementing search systems, and building solutions designed for real users.
 
 I believe great engineering goes beyond making features work. It's about building systems that are maintainable, reliable, performant, and valuable to the business.
-
-```javascript
 const shiva = {
   role: "Full Stack Engineer",
   experience: "2+ Years",
@@ -78,21 +56,9 @@ const shiva = {
 
   philosophy: "Think. Engineer. Optimize. Scale."
 };
-```
-
----
-
-<!-- ================= SYSTEM ARCHITECTURE ================= -->
-
-## 02. / System Architecture
-
+<!-- ================= SYSTEM ARCHITECTURE ================= -->02. / System Architecture
 I approach software development by thinking beyond individual components — focusing on how frontend applications, backend services, APIs, and data systems communicate to deliver reliable products.
-
-### 01 — Production Web Application Architecture
-
-<details open>
-<summary><b>View System Architecture</b></summary>
-
+01 — Production Web Application Architecture
 ```mermaid
 flowchart TB
 
@@ -140,32 +106,20 @@ flowchart TB
     class API,AUTH,LOGIC,VALIDATION backend
     class DB,SEARCH data
     class USER user
+
 ```
-
-</details>
-
-**Architecture principles**
-
+Architecture principles
 - Separation of concerns and modular design.
 - Reusable and maintainable frontend components.
 - Secure API communication and authentication.
 - Structured database management.
 - Search integration and efficient data retrieval.
 - Performance-oriented application design.
-
-*Note: This is a representative architecture of full-stack systems, not a claim that every component is deployed in every project.*
-
----
-
-### 02 — Hybrid Search Architecture
-
+Note: This is a representative architecture of full-stack systems, not a claim that every component is deployed in every project.
+02 — Hybrid Search Architecture
 One of my interesting engineering areas is working with search functionality, including OpenSearch and keyword-based search.
 
 The following diagram illustrates a conceptual hybrid search workflow.
-
-<details open>
-<summary><b>Explore Search Architecture</b></summary>
-
 ```mermaid
 flowchart TB
 
@@ -212,30 +166,18 @@ flowchart TB
     class KEYWORD,OPENSEARCH search
     class NORMALIZE,MERGE,RANK process
     class RESPONSE output
+
 ```
-
-</details>
-
-**Search engineering concepts**
-
+Search engineering concepts
 - Query processing and normalization.
 - Keyword-based matching.
 - OpenSearch integration.
 - Result aggregation.
 - Relevance-based filtering and ranking.
 - Efficient API response handling.
-
-*The exact search pipeline depends on the project implementation. This diagram illustrates the general hybrid-search concept.*
-
----
-
-### 03 — Software Engineering & CI/CD Lifecycle
-
+The exact search pipeline depends on the project implementation. This diagram illustrates the general hybrid-search concept.
+03 — Software Engineering & CI/CD Lifecycle
 Understanding how software moves from development to production is an important part of engineering reliable applications.
-
-<details>
-<summary><b>View Engineering Workflow</b></summary>
-
 ```mermaid
 flowchart LR
 
@@ -268,228 +210,124 @@ flowchart LR
     class E,F,G pipeline
     class H,I production
 ```
-
-</details>
-
-**Engineering workflow principles**
-
+Engineering workflow principles
 - Version control and collaborative development.
 - Code reviews and maintainability.
 - Automated quality checks and testing.
 - Build and deployment processes.
 - Production validation and monitoring.
 - Continuous improvement.
-
-*This represents a reference CI/CD workflow, not a claim that all stages are currently automated in my projects.*
-
----
-
-<!-- ================= PRODUCTION PROJECTS ================= -->
-
-## 03. / Production Engineering
-
-### 01 — WholesaleDeals
-
+This represents a reference CI/CD workflow, not a claim that all stages are currently automated in my projects.
+<!-- ================= PRODUCTION PROJECTS ================= -->03. / Production Engineering
+01 — WholesaleDeals
 <a href="https://wholesaledeals.co.uk/">
 <img src="https://img.shields.io/badge/LIVE%20PLATFORM-WholesaleDeals-238636?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-
-**B2B Wholesale Marketplace**
+</a>B2B Wholesale Marketplace
 
 Contributed to a production marketplace connecting suppliers and buyers through deal management and business workflows.
 
-**Engineering contributions**
-
+Engineering contributions
 - Engineered and optimized deal management functionality.
 - Implemented hybrid search using OpenSearch and keyword-based search.
 - Worked on API performance optimization and data handling.
 - Contributed to supplier and buyer workflow systems.
 - Engineered admin panel functionality and management features.
+Technology Stack
 
-**Technology Stack**
-
-`React.js` `Next.js` `Node.js` `Express.js` `OpenSearch` `MySQL`
-
----
-
-### 02 — NexBrass
-
-<a href="https://NexBrass.com">
+React.js Next.js Node.js Express.js OpenSearch MySQL
+02 — NexBrass
+<a href="https://nexbrass.com">
 <img src="https://img.shields.io/badge/LIVE%20WEBSITE-NexBrass-238636?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-
-**Industrial & Product-Based Business Website**
+</a>Industrial & Product-Based Business Website
 
 Worked on frontend implementation and website development for an industrial business platform.
 
-**Engineering contributions**
-
+Engineering contributions
 - Website development and frontend integrations.
 - Responsive layouts and user experience improvements.
 - Performance and SEO enhancements.
 - Reusable interface elements.
+Technology Stack
 
-**Technology Stack**
-
-`React.js` `JavaScript` `HTML` `CSS` `SEO`
-
----
-
-### 03 — WholesaleLinks India
-
+React.js JavaScript HTML CSS SEO
+03 — WholesaleLinks India
 <a href="https://wholesalelinks.in">
 <img src="https://img.shields.io/badge/LIVE%20PLATFORM-WholesaleLinks-238636?style=flat-square&logo=googlechrome&logoColor=white" />
-</a>
-
-**Supplier & Wholesale Directory Platform**
+</a>Supplier & Wholesale Directory Platform
 
 Contributed to a directory-style platform designed to organize supplier information and wholesale opportunities.
 
-**Engineering contributions**
-
+Engineering contributions
 - Frontend system development.
 - Data handling and structured content management.
 - Feature enhancements and UI improvements.
 - Application optimization and maintenance.
+Technology Stack
 
-**Technology Stack**
-
-`React.js` `JavaScript` `REST APIs` `MySQL`
-
----
-
-<!-- ================= TECHNICAL SKILLS ================= -->
-
-## 04. / Technical Arsenal
-
-<div align="center">
-
-### FRONTEND ENGINEERING
-
+React.js JavaScript REST APIs MySQL
+<!-- ================= TECHNICAL SKILLS ================= -->04. / Technical Arsenal
+<div align="center">FRONTEND ENGINEERING
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,redux,tailwind,html,css" />
 
-<br/><br/>
 
-### BACKEND ENGINEERING
-
+BACKEND ENGINEERING
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
 
-<br/><br/>
 
-### DATABASE & SEARCH
-
+DATABASE & SEARCH
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,elasticsearch" />
 
-<br/><br/>
 
-### TOOLS & INFRASTRUCTURE
+TOOLS & INFRASTRUCTURE
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,postman,vscode" /></div><!-- ================= ENGINEERING FOCUS ================= -->05. / Engineering Focus
+Domain	Engineering Focus
+Frontend	Component Architecture, State Management, SSR
+Backend	REST APIs, Business Logic, Authentication
+Database	Query Optimization, Data Modeling
+Search	OpenSearch, Keyword Search, Hybrid Search
+Performance	API Optimization, SEO, Core Web Vitals
+Systems	Automation, Scalable Architecture
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,linux,postman,vscode" />
 
-</div>
-
----
-
-<!-- ================= ENGINEERING FOCUS ================= -->
-
-## 05. / Engineering Focus
-
-| Domain | Engineering Focus |
-|:---|:---|
-| Frontend | Component Architecture, State Management, SSR |
-| Backend | REST APIs, Business Logic, Authentication |
-| Database | Query Optimization, Data Modeling |
-| Search | OpenSearch, Keyword Search, Hybrid Search |
-| Performance | API Optimization, SEO, Core Web Vitals |
-| Systems | Automation, Scalable Architecture |
-
----
-
-<!-- ================= CURRENTLY EXPLORING ================= -->
-
-## 06. / Currently Exploring
-
-```text
+<!-- ================= CURRENTLY EXPLORING ================= -->06. / Currently Exploring
 01  AI Engineering & LLM-Powered Applications
 02  Advanced Next.js Architecture
 03  System Design & Distributed Systems
 04  Backend Scalability & Performance
 05  AI-Powered Business Automation
-```
-
 I'm interested in building intelligent applications that combine modern web technologies with practical AI capabilities.
+<!-- ================= GITHUB ANALYTICS ================= -->07. / GitHub Intelligence
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivaojha14&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaojha14&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
----
 
-<!-- ================= GITHUB ANALYTICS ================= -->
-
-## 07. / GitHub Intelligence
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shivaojha14&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivaojha14&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=shivaojha14&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-<!-- ================= BEYOND CODE ================= -->
-
-## 08. / Beyond the Code
-
+<img width="80%" src="https://streak-stats.demolab.com?user=shivaojha14&theme=github-dark-blue&hide_border=true" /></div><!-- ================= BEYOND CODE ================= -->08. / Beyond the Code
 - I enjoy understanding complex business requirements.
 - I believe clean architecture saves more time than quick fixes.
 - I prefer solving real engineering problems over building repetitive demos.
 - I continuously explore modern technologies and better engineering practices.
 - I believe good software is a combination of technical quality and business value.
-
----
-
-<!-- ================= OPPORTUNITIES ================= -->
-
-## 09. / Open to Opportunities
-
+<!-- ================= OPPORTUNITIES ================= -->09. / Open to Opportunities
 I'm interested in connecting with engineering teams, founders, and companies building meaningful products.
 
-**Interested Roles**
-
+Interested Roles
 - Full Stack Engineer
 - React.js / Next.js Developer
 - Software Engineer
 - Full Stack + AI Engineer
-
-**Let's build something that matters.**
-
-<div align="center">
-
-<a href="mailto:ojhashiva139@gmail.com">
+Let's build something that matters.
+<div align="center"><a href="mailto:ojhashiva139@gmail.com">
 <img src="https://img.shields.io/badge/LET'S%20BUILD%20TOGETHER-Contact%20Me-238636?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
 
 <a href="https://github.com/shivaojha14">
 <img src="https://img.shields.io/badge/GitHub-shivaojha14-161B22?style=flat-square&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/shiva-ojha-356442246/">
+</a><a href="https://www.linkedin.com/in/shiva-ojha-356442246/">
 <img src="https://img.shields.io/badge/LinkedIn-Shiva%20Ojha-0A66C2?style=flat-square&logo=linkedin" />
 </a>
 
-<br/><br/>
 
-### Think Deeply. Engineer Intelligently. Build Fearlessly.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:161B22,100:0D1117&height=120&section=footer" width="100%" />
-
-</div>
-
-<!-- ========================================================= -->
+Think Deeply. Engineer Intelligently. Build Fearlessly.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,50:161B22,100:0D1117&height=120&section=footer" width="100%" /></div><!-- ========================================================= -->
 <!--                  END OF README                            -->
 <!-- ========================================================= -->
